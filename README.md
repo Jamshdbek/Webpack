@@ -14,6 +14,5 @@ webpack.cil
 htmlWebpackPlugin
 ```
 
-![https://webpack.js.org/](https://webpack.js.org/)
-
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
