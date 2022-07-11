@@ -14,6 +14,6 @@ webpack.cil
 htmlWebpackPlugin
 ```
 
-![This is an image](https://webpack.js.org/)
+![https://webpack.js.org/](https://webpack.js.org/)
 
 
